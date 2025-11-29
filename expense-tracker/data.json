@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Goa",
+        "amount": 3000.0,
+        "category": "Travel"
+    },
+    {
+        "name": "Mandhi",
+        "amount": 600.0,
+        "category": "Food"
+    }
+]
